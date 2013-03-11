@@ -1,0 +1,6 @@
+auto: true
+markdown: kramdown
+destination: _site
+destroy: true
+exclude:
+- README
