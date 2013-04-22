@@ -1562,3 +1562,15 @@ div#events {
 		div#events div.event div.event_date ul.one li, ul.three li {
 			font-weight: bold;
 		}
+
+/*--------------------------------------------
+XX. Content Block
+---------------------------------------------*/
+
+.content-block p {
+	margin-bottom: 15px;
+}
+
+.content-block h3 {
+	margin-top: 30px;
+}
